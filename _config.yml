@@ -1,0 +1,26 @@
+title: "My Discord Website"
+description: "A personal website that tells users about me, my coding skills, and my chill attitude."
+baseurl: "/"
+url: "https://yourwebsite.com"  # Update with your actual website URL
+
+# Author Information
+author:
+  name: "SkySploit"
+  email: "your-email@example.com"
+  bio: "A passionate developer who loves to work with JSON and Python. Known for my chill attitude and dedication to coding."
+
+# Social Media Links
+social:
+  discord: "https://discord.gg/yourdiscord"  # Update with your actual Discord invite link
+
+# Theme Settings
+theme: "jekyll-theme-minimal"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
